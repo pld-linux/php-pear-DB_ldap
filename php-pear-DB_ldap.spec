@@ -2,8 +2,8 @@
 %define         _class          DB
 %define         _subclass       ldap
 %define		_pearname	%{_class}_%{_subclass}
-Summary:	%{_class}_%{_subclass} - DB interface to LDAP server
-Summary(pl):	%{_class}_%{_subclass} - interfejs DB do serwerów LDAP
+Summary:	%{_pearname} - DB interface to LDAP server
+Summary(pl):	%{_pearname} - interfejs DB do serwerów LDAP
 Name:		php-pear-%{_pearname}
 Version:	1.0
 Release:	1
