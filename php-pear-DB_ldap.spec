@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The PEAR::DB_ldap class provides a DB compliant interface to LDAP
 servers.
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 Klasa PEAR::DB_ldap dostarcza zgodny z DB interfejs do serwerów LDAP.
