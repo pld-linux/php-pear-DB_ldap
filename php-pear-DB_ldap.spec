@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.php
-%define         _class          DB
-%define         _subclass       ldap
+%define		_class		DB
+%define		_subclass	ldap
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
 
