@@ -14,6 +14,7 @@ Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 # Source0-md5:	18455feab68bc0cd4ebada001f2e6717
 URL:		http://pear.php.net/package/DB_ldap/
+BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-pear
 Requires:	php-pear-DB
