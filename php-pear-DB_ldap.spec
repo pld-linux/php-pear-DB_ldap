@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - DB interface to LDAP server
-Summary(pl):	%{_pearname} - interfejs DB do serwerów LDAP
+Summary(pl.UTF-8):   %{_pearname} - interfejs DB do serwerÃ³w LDAP
 Name:		php-pear-%{_pearname}
 Version:	1.1.1
 Release:	3
@@ -29,8 +29,8 @@ servers.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Klasa PEAR::DB_ldap dostarcza zgodny z DB interfejs do serwerów LDAP.
+%description -l pl.UTF-8
+Klasa PEAR::DB_ldap dostarcza zgodny z DB interfejs do serwerÃ³w LDAP.
 
 Ta klasa ma w PEAR status: %{_status}.
 
