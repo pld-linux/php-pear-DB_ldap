@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - DB interface to LDAP server
-Summary(pl.UTF-8):   %{_pearname} - interfejs DB do serwerów LDAP
+Summary(pl.UTF-8):	%{_pearname} - interfejs DB do serwerów LDAP
 Name:		php-pear-%{_pearname}
 Version:	1.1.1
 Release:	3
