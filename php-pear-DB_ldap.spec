@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	DB_ldap
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - DB interface to LDAP server
 Summary(pl.UTF-8):	%{pearname} - interfejs DB do serwerów LDAP
 Name:		php-pear-%{pearname}
