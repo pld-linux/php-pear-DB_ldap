@@ -4,7 +4,7 @@ Summary:	%{pearname} - DB interface to LDAP server
 Summary(pl.UTF-8):	%{pearname} - interfejs DB do serwerów LDAP
 Name:		php-pear-%{pearname}
 Version:	1.2.1
-Release:	1
+Release:	2
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
